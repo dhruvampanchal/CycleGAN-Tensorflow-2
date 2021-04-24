@@ -9,6 +9,8 @@ We would like to thank Lynn Ho for his code on CycleGAN, The Chinese University 
 
 CUHK Dataset: http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html
 
+<hr style="height:3px"/>
+
 ***Recommendation***
 
 - Our GAN based work for facial attribute editing - [AttGAN](https://github.com/LynnHo/AttGAN-Tensorflow).
