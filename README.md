@@ -1,3 +1,14 @@
+# Sketch to Portrait Project
+This is project for IT416 - Topics in Deep Learning.
+In this project, we use CycleGAN to convert humar sketch to portrait with the help of CUHK Face Sketch dataset.
+We have used the Forked Repository CycleGAN-Tensorflow-2 for the same.
+
+A few results have been given in Outputs folder. You can also find our detailed report on the project with filename report.pdf.
+
+We would like to thank Lynn Ho for his code on CycleGAN, The Chinese University of Hong Kong for the dataset and Prof. Ahlad Kumar at DAIICT for giving us this opportunity through his course.
+
+CUHK Dataset: http://mmlab.ie.cuhk.edu.hk/archive/facesketch.html
+
 ***Recommendation***
 
 - Our GAN based work for facial attribute editing - [AttGAN](https://github.com/LynnHo/AttGAN-Tensorflow).
